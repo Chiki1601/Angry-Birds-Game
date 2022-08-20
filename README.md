@@ -1,2 +1,2 @@
-# Angey-Birds-Game
+# Angry-Birds-Game
 PYTHON GAMES , pygame library
